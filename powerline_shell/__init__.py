@@ -65,8 +65,8 @@ class Powerline(object):
         'patched': {
             'lock': u'\uE0A2',
             'network': 'SSH',
-            'separator': u'\uE0B0',
-            'separator_thin': u'\uE0B1'
+            'separator': u'\uE0BC',
+            'separator_thin': u'\uE0BD'
         },
         'flat': {
             'lock': u'\uE0A2',
